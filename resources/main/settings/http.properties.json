@@ -1,1 +1,5 @@
-{"method":"http","domain":"localhost","port":"8080"}
+{
+  "method": "http",
+  "domain": "localhost",
+  "port": "8080"
+}
